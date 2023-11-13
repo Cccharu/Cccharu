@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Cccharu
-- 🌱 I’m currently learning C programming language.
+
   
 
 
